@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>zarathu&#39;s blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-07-04T16:43:01.397Z</updated>
+  <id>http://example.com/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>退役闲扯</title>
+    <link href="http://example.com/2021/07/04/%E9%80%80%E5%BD%B9%E9%97%B2%E6%89%AF/"/>
+    <id>http://example.com/2021/07/04/%E9%80%80%E5%BD%B9%E9%97%B2%E6%89%AF/</id>
+    <published>2021-07-04T14:38:50.000Z</published>
+    <updated>2021-07-04T16:43:01.397Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://r.photo.store.qq.com/psc?/V5101i4N2AONC108wybz0Xh5bz3BswLO/TmEUgtj9EK6.7V8ajmQrEB2oRHLMU2VsvNNbR9y2xaOqbwpUFR9PjTE8IhGjIYv3WItmiBfjsK6x.J2lKcI06mYp8v0i4XveLzyrttkmORw!/r" alt="开 幕 雷 击"></p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=19086958&auto=0&height=66"></iframe><h1 id="上半年我做了什么"><a href="#上半年我做了什么" class="headerlink" title="上半年我做了什么"></a>上半年我做了什么</h1><h2 id="寒假"><a href="#寒假" class="headerlink" title="寒假"></a>寒假</h2><p>去年在ICPC济南拿了金，不过今年还有比赛没打，因此寒假还是在训练的，不过CodeForces的rating一直在掉，也没什么办法。寒假里投了谷歌和微软的实习，投谷歌的时候投早了还没拿金牌，虽然kickstart打到名次了，但是还是没搞到面试机会。微软则是在笔试的时候n和m打反了，而且微软笔试做完了才有反馈，等于送了一题，也没进面试<del>不过好像有人笔试全挂都进了面试？</del>。这两件事我自认为是大学期间四大遗憾中的两件。</p><h2 id="ICPC昆明"><a href="#ICPC昆明" class="headerlink" title="ICPC昆明"></a>ICPC昆明</h2><p>主办方nb地预判了形式提前一周改成线上，比赛当天昆明就查出确诊。<br>说实话，由于大脑的保护机制，我这场比赛忘得差不多了，只知道自己比较演，队伍状态比较差，赛前训练也不是非常紧张，只拿了块银。</p><h2 id="East-Continent-FINAL"><a href="#East-Continent-FINAL" class="headerlink" title="East-Continent FINAL"></a>East-Continent FINAL</h2><p>退役战，直接和大爹一队和六队一起参加这场盛会。<br><img src="http://r.photo.store.qq.com/psc?/V5101i4N2AONC108wybz0Xh5bz3BswLO/TmEUgtj9EK6.7V8ajmQrEAY4zOv2IBW.wjxA6O1ARxJt2gQ0QDFr4rgFW7P2xWNESwMtjzgeLA9D8GNRBJOtr7tWyZi8SbmnXgzuUUEnqCQ!/r" alt=""></p><p><img src="http://r.photo.store.qq.com/psc?/V5101i4N2AONC108wybz0Xh5bz3BswLO/TmEUgtj9EK6.7V8ajmQrEBiN3V422idt6enQ2mVu*Rs0ahm5qPIv4UdE454V5YyxjRAlJDuU34MQHDo4231qiDvrssGTbbsW8SBhOwhWFS8!/r" alt=""></p><p><img src="http://r.photo.store.qq.com/psc?/V5101i4N2AONC108wybz0Xh5bz3BswLO/TmEUgtj9EK6.7V8ajmQrENt3ZuUxAm5mdMYv4VsworrXENBG3a7GDhLV2xe1**JSR84wi3fhL5KKswhh74FKmDM.feLXaSj2kp8WJ3d*uaE!/r" alt=""></p><p>这场比赛非常的血腥，许多强队发挥都不太理想，六题就有金，我们打了四题。差的两题都是我开的，一个德扑的模拟题，大概是判断是否是nuts，我少考虑了A2345的情况，另一个数据结构，我嘴了一个比较复杂的写法，队友又实现地稍微复杂了点，有一个特殊情况的判断漏了。我生涯最后一个小时都在处理这两个bug，但是很遗憾在压力和饥饿的双重作用下我似乎没能把bug找出来。</p><p><img src="http://r.photo.store.qq.com/psc?/V5101i4N2AONC108wybz0Xh5bz3BswLO/TmEUgtj9EK6.7V8ajmQrEFVY*UrAxE42IFe4qkcfAI50IHuEj56bWSHION.DTkVuZDytmx7NfxlrD.qcfLo9kkyHTF4pyV*zu0xhbb3izjs!/r" alt="西工大附近某清真馆子的杯子"></p><p><img src="http://r.photo.store.qq.com/psc?/V5101i4N2AONC108wybz0Xh5bz3BswLO/TmEUgtj9EK6.7V8ajmQrEOB1WXIftmsburFPBiSpjcI47zQLmXwVdIbYrL.Sfpp98VcIX4EdOinijLGhPd6GzNhpxGmTC6CDVsTAaeDaDkU!/r" alt="止步于此了"></p><p><img src="http://r.photo.store.qq.com/psc?/V5101i4N2AONC108wybz0Xh5bz3BswLO/TmEUgtj9EK6.7V8ajmQrELeoAEm32SbUxaO52S.UPH.CQRKDMnRJa0vm9oofrgTJi*jS*wBCZBt38KiJQZcBN1vSPwXmBJAUp4mOY5CGIQo!/r" alt="我拍照时一副演员的模样"></p><p>最后在坐车前往机场的时候，听到收费口的“祝您一路顺风”，眼里好像进了亿点沙子（我队BonVoyage,官方中文名一路顺风），为了避免尴尬给队友科普了一下为什么飞机起降的时候逆风比较好。</p><h2 id="MetaCamp"><a href="#MetaCamp" class="headerlink" title="MetaCamp"></a>MetaCamp</h2><p>事后又参加了一个量化公司的小比赛，由于大佬们似乎消息不太灵通，我侥幸混了个前50进了决赛。主办方为我们订了一晚2k+的华尔道夫，至此借着算法竞赛我体验了50一晚到2000一晚的一系列酒店<del>感觉没有本质区别</del>。<br>比赛还是很有乐子的，主办方组织了德扑活动，我得以与大佬们在牌桌上较量一番<del>不过我好像拱火过头了，搞得我们一桌动不动就allin</del>。</p><p><img src="http://r.photo.store.qq.com/psc?/V5101i4N2AONC108wybz0Xh5bz3BswLO/TmEUgtj9EK6.7V8ajmQrEChkYLS596JkeWDZ3uCi2KMTxxN92jqXn6*ei.0YTo8Tj7YQMqbzN43ZnHZb8C1*JXIH5NxTlLNEM8Ji8ft8a.o!/r" alt="窗外就是王府井"></p><p>当然也听了技术讲座，了解到了主办方metabit是如何用创业公司的文化、基于强化学习的模型以及非常有互联网公司风范的一套技术体系来做量化交易的。</p><p>最后在北京春天晴朗的天空下，我结束了生涯最后一场比赛<br><img src="http://r.photo.store.qq.com/psc?/V5101i4N2AONC108wybz0Xh5bz3BswLO/TmEUgtj9EK6.7V8ajmQrEKC.U5S6OhoSEyEUVQAnzmaOnOup0AuCDAjRkpLAhQlcDAUo7Eu9JiP4UbQAjemYR9vHreUstgObub717*rO3gM!/r" alt=""></p><h1 id="生涯心得"><a href="#生涯心得" class="headerlink" title="生涯心得"></a>生涯心得</h1><ol><li>比赛的时候也许可以考虑代餐？吨吨吨一瓶下去就饱了，可以避免因为太饿或者手上太油或者吃饭摸鱼对比赛造成影响？（很遗憾退役之后我才想到这一点）</li><li>比赛的时候状态越松越好？至少我队打金的那一场全程都在说相声，节目效果爆炸，之于这是因还是果我也搞不清楚。</li><li>打这种竞赛，牌子也就是一块牌子，我认为体验更加重要。首先，出去找工作，一块金牌最多保证进入面试（甚至有进不了面试的情况），而面试时大多数面试官更看重其他技能，有的甚至会因为竞赛经历而跳过coding阶段问业务（亲身经历）；其次，工作的技能和竞赛的技能大概率是不同的，竞赛的技术大概率对于企业来说没有什么意义；最后，从自身角度出发，我觉得算法竞赛给人带来的其他东西远比一块牌子来得有意义，我这辈子可能永远忘不了算法竞赛带给我的一些瞬间，比如冬天凌晨打完Codeforces裹在被子里一边揉着冻得没什么知觉的脚一边刷评测页面祈祷不要fail system test，比如上了大分之后一个人听着歌手舞足蹈到天亮，比如比赛到了紧要关头却死活挑不出bug心急如焚，比如疯狂优化算法常数却死活冲不过去的绝望，比如调到半夜突然发现一个傻逼错误的茅塞顿开，比如和清北大佬同场竞技的紧张，比如在比赛最后时刻一波rush，赶在结束前提交成功的紧张，以及这种情况下刷出Accepted的惊喜和刷出Wrong Answer的郁闷，比如去北京打完比赛后的早晨，在50元一晚标间里守着5个第一次来北京去看升旗被冻得半死不活并且一睡不醒的兄弟，又比如训练完翘了课去吃烧烤的寒冷夜晚。这样的场景还有很多，算法竞赛在大学期间给了我一个目标，而我为了这个目标投入了我所有的假期，大部分的闲暇，结识了志同道合的伙伴，并一起做了许多令人难忘的事情，我们挑战自己，挑战室友对键盘声的抗性，挑战同属集训队的队友，挑战其他“强校”，甚至还挑战辅导员和任课老师的血压极限。我觉得这样的回忆才是这个比赛最珍贵的东西，而不是一块主办方乱发的牌子。</li></ol><h1 id="关于未来"><a href="#关于未来" class="headerlink" title="关于未来"></a>关于未来</h1><p>md太晚了，明天还要上班，先睡了。</p>]]></content>
+    
+    
+    <summary type="html">关于我正式退役这件事</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CAMP纪实01</title>
+    <link href="http://example.com/2021/01/25/CAMP%E7%BA%AA%E5%AE%9E01/"/>
+    <id>http://example.com/2021/01/25/CAMP%E7%BA%AA%E5%AE%9E01/</id>
+    <published>2021-01-25T12:30:24.000Z</published>
+    <updated>2021-01-25T12:59:34.809Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="开营仪式"><a href="#开营仪式" class="headerlink" title="开营仪式"></a>开营仪式</h1><p>传统艺能了，开营仪式wls灵魂质问“请问你为什么要学算法，打算法竞赛？”，我自己还是一时半会儿答不上来……<br>由于这次是在阿里的云栖小镇办的，就科普了一下2050的活动，官方介绍是“很难说清楚2050是什么”。<br>总之是一个纯志愿的活动，给各行各业的人一个一起交流一起搞事的机会。正在策划的活动貌似有罗布泊版本的火人节？还有人在这地方试图造可回收火箭？不过这种交流的氛围确实非常不错。</p><h1 id="企业宣讲"><a href="#企业宣讲" class="headerlink" title="企业宣讲"></a>企业宣讲</h1><p>由于大家跑路太快了，企业宣讲的时候人已经走得差不多了，于是帮wls撑场面，两场宣讲全听了，毛了一顿kfc。</p><h2 id="Momenta"><a href="#Momenta" class="headerlink" title="Momenta"></a>Momenta</h2><p>见识了一下L4自动驾驶的DEMO，有点牛逼，确实非常有意思，他们也面临了诸多挑战。以前只知道他们的实习生1点下班，现在对于他们的业务有了一些了解。确实是一个不错的去处。</p><h2 id="燧原科技"><a href="#燧原科技" class="headerlink" title="燧原科技"></a>燧原科技</h2><p>这是一家搞深度学习硬件的公司，来的人直接对着业务架构图开课，十分硬核。<br>总之就是他们从tensorflow底层接口开始，一直把业务干到了电路，有一种贯穿计算机组成的快感。<br>首先他们科普了llvm的模型，大概就是在编译器和汇编之间加了中间层，然后讲了业界比较前沿的用于人工智能的mlvm模型，（ml指multy layer），大概有六层，最底层对应verilog语言，最顶层就是tensorflow，然后每一层都有一种语言，从具象到抽象，而各层也有各自的优化方向。<br>强烈建议以后在大三开一门对应课程，直接把前几学期的专业课全串起来，一定非常酸爽。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>上次去华为交流，各个部门的带哥轮流上去讲业务，互相都听傻了：“我们居然有这么多业务” “你们这不是和xx组一样的东西吗”，这一次接触到了所谓的创业公司，因为人少，所以每个人都对整个架构有所了解，而且据他们所说，在创业公司确实每个人都有独当一面的必要，而不是像大厂员工一样当个螺丝钉管好自己的几个接口就好。</p><h1 id="课程"><a href="#课程" class="headerlink" title="课程"></a>课程</h1><p>sjtu的博士带哥上来讲拟阵，讲完丢出来一本组合优化讲义留下众人无语凝噎。<br>一开始还是跟得上思路的，还能回答几个问题，后期讲拟阵交直接懵逼了。<br>不过div1这种十几个人随便往地上一坐就开始学习的氛围确实不错，堪称我体验过的最佳授课氛围，为什么大学的小班教育就不能是这个模样呢？</p>]]></content>
+    
+    
+    <summary type="html">我也没想到我还能参加第二次CAMP</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>算法笔记-FWT快速沃尔什变换</title>
+    <link href="http://example.com/2021/01/02/%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0-FWT%E5%BF%AB%E9%80%9F%E6%B2%83%E5%B0%94%E4%BB%80%E5%8F%98%E6%8D%A2/"/>
+    <id>http://example.com/2021/01/02/%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0-FWT%E5%BF%AB%E9%80%9F%E6%B2%83%E5%B0%94%E4%BB%80%E5%8F%98%E6%8D%A2/</id>
+    <published>2021-01-02T06:28:01.000Z</published>
+    <updated>2021-01-02T08:15:43.300Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="快速沃尔什变换是干什么的"><a href="#快速沃尔什变换是干什么的" class="headerlink" title="快速沃尔什变换是干什么的"></a>快速沃尔什变换是干什么的</h1><p>快速沃尔什变换，英文名Fast Walsh–Hadamard transform，简称FWT，是用来在 $O(n logn)$ 的复杂度下完成Hadamard transform的。当然，如果你有量子计算机的话复杂度是 $O(1)$ 。这个变换可以被看作一个矩阵 H而$(H)_{i,j}$可以被看作 <script type="math/tex">\frac{1}{2^{\frac{n}{2}}} (-1)^{i \cdot j}</script> 其中 $i \cdot j$ 表示 $i$ 和 $j$ 二进制表示的点积。<br>Hadamard transform被应用于加密算法，压缩算法，量子计算中的质因数分解算法等。</p><p>对于算法竞赛选手，最重要的是快速沃尔什变换的思想,而Hadamard transform于我们而言只是现场推得的式子，没有深究的必要。我们在处理如下形式的式子时会使用快速沃尔什变换。<script type="math/tex">C_k = \sum_{i\;xor\;j=k}a[i]*b[j]</script>接下来我们探讨一下如何在 $O(nlogn)$ 的复杂度下搞定这个东西。</p><h1 id="咋整"><a href="#咋整" class="headerlink" title="咋整"></a>咋整</h1><p>这种东西和多项式卷积长得非常像，所以着手点在于变换成一个类似于多项式点值的表示法，然后直接两个点积一下再变换回来。</p><p>又由于位运算这种东西显然按位搞比较方便，我们可以考虑按位分治。</p><p>假设枚举下标的当前位，为零的记为 $a_0\;b_o$ ,为1的记为 $a_1 b_1$ ，那么根据异或的定义， </p><script type="math/tex; mode=display">c_o=a_0*b_1+a_1*b_0</script><script type="math/tex; mode=display">c_1=a_0*b_0+a_1*b_1</script><p>我们可以构造 $x_0x_1y_0y_1$<br>满足 <script type="math/tex">x_0=a_0+a_1，x_1=a_0-a_1</script> 且 <script type="math/tex">y_0=b_0+b_1，y_1=b_0-b_1</script></p><p>随后点积，$x_0 \cdot y_0=a_0b_0+a_0b_1+a_1b_0+a_1b_1$ ，</p><p>$ x_1 \cdot y_1=a_0b_0-a_0b_1-a_1b_0+a_1b_1$ ，</p><p>$c_0$ 即为 $\frac{x_0 \cdot y_0 - x_1 \cdot y_1}{2}$ ， </p><p>$c_1$ 即为 $\frac{x_0 \cdot y_0 + x_1 \cdot y_1}{2}$</p><p>那么只要从低位到高位递归地操作即可， $x$ 和 $y$ 就是所得到的类似多项式点值表示的数组。</p><p>代码如下</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">template</span>&lt;<span class="keyword">typename</span> T&gt;</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">fwt</span><span class="params">(LL a[], <span class="keyword">int</span> n, T f)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">int</span> d = <span class="number">1</span>; d &lt; n; d *= <span class="number">2</span>)</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>, t = d * <span class="number">2</span>; i &lt; n; i += t)</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = <span class="number">0</span>; j &lt; d; j++)</span><br><span class="line">                f(a[i + j], a[i + j + d]);</span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">XOR</span> <span class="params">(LL&amp; a, LL&amp; b)</span> </span>&#123;</span><br><span class="line">    LL x = a, y = b;</span><br><span class="line">    a = (x + y) % MOD;</span><br><span class="line">    b = (x - y + MOD) % MOD;</span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">rXOR</span><span class="params">(LL&amp; a, LL&amp; b)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">static</span> LL INV2 = (MOD + <span class="number">1</span>) / <span class="number">2</span>;</span><br><span class="line">    LL x = a, y = b;</span><br><span class="line">    a = (x + y) * INV2 % MOD;</span><br><span class="line">    b = (x - y + MOD) * INV2 % MOD;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>只需要对a和b都调用XOR进行变换，点积之后做rXOR即可求得c。</p><p>其实，这一段代码所进行的变换就是Hadamard transform，对于其他的X进制上的位运算，我们都可以用类似方法得到一个变换。本质就是运用乘法结合律将信息重新存储到指定位置，然后减少计算次数。对于比较变态的位操作，比如说三进制位上取mex，可以在数组中插入空位，扩充为四进制来做。</p>]]></content>
+    
+    
+    <summary type="html">同时这篇文章也会作为马原作业上交</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Good by 2020, hello 2021</title>
+    <link href="http://example.com/2021/01/01/Good-by-2020-hello-2021/"/>
+    <id>http://example.com/2021/01/01/Good-by-2020-hello-2021/</id>
+    <published>2021-01-01T13:45:43.000Z</published>
+    <updated>2021-01-01T16:11:12.083Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>上一个博客由于AWS教育优惠送的100刀花完了而本人懒得续费而报销了，很遗憾，文章全都GG了，所以这一次就不整花活了，老老实实白嫖github，只要guthub一天不倒，我写的东西就不会GG。</p></blockquote><h1 id="2020干了什么"><a href="#2020干了什么" class="headerlink" title="2020干了什么"></a>2020干了什么</h1><ol><li>年初参加了秦皇岛的CCPC WANNAFLY Camp， 听了巨佬讲课，恰了北方的烧烤，但回来没怎么upsolve，不过可能还是学到了点东西。</li><li>寒假在家打codeforces，上到了2200+，成为了一名光荣的master，还记得上分当晚激动的睡不着觉，在客厅了自斟自酌，然后听slash推弦，无比潇洒，然后这年就没怎么打。</li><li>疫情在家摸鱼，也算做了点题，学了一些东西。</li><li>选修了计算机图形学，重装了6遍visual studio，非常窒息。到头来，好像没学到什么东西。</li><li>返校上课，在计组实验课中手撸了一个MIPS32，好像很有意义，但是感觉没什么作用。</li><li>编译原理水过去了，不知道是我的问题还是别的什么东西出了问题，好像啥也不会，但就是水过去了，也许这就是带学？</li><li>由于疫情，上半年的比赛都取消了，所以过得非常郁闷。</li><li>暑假留校训练，和带爹人wcy和syh组了BonVoyage，一般在牛客多校上比较猛，在自家HDU多校上比较颓，不过最后收官之战好像都挺猛的。这绝对是我目前人生摸鱼最少的暑假，花了很多时间和队友一起在实验室开比赛或者补题，每天最有趣的时刻是10点多我队和对面的转爷一起回寝，这样的日子非常充实。</li><li>打了浙江省赛，拿了金，不过有一道数论题在我能力范围内却没能想出来，这是一个危险的信号。</li><li>CCPC秦皇岛，打了银。被一个树上贪心卡了许久，直接导致时间紧张，最后rush几何题非常仓促。时候发现我手里的一道题就是4个单调队列乱搞一下的弱智题，还有一个sb计数完全没考虑，一个数论背景下的基向量构造题也非常弱智，但是可能当时的我更加弱智。总之，此生无缘CCPC金牌了。不过从此我至少学会了尽可能把所有题目都想一下。</li><li>虽然拿银对我们打击非常大，当时ICPC比赛的存在性也尚未得到证明，但是我们还是保持了一周3-4场vp的节奏 <del>不过upsolving就另说了</del> ，打了不少optrains上的毛子题，经常自闭，不过也学到许多骚东西。</li><li>集训队内互相出题，我搞了一个带容斥系数(-1)的指数型生成函数题，当时看到题解我觉得这个证明难得一批但是构造出来的话却异常精妙，不过事实证明出题人总会低估自己题目的难度，我的题没有人通过，事后叉哥评价道“太瘤了”，于是我及时悔改了，而另一位其他队伍的毒瘤出题人搞了一个矩阵树定理套线性代数结论最后在运用单位根反演转化成一次NTT的巨毒瘤题且没有悔改(没错，就是wrf)，于是他遭到了应有的报应。</li><li>ICPC济南，拿了rk12的金牌。事前一周vp的时候我队状态犹如过山车，最后一场直接雪崩。场上的时候我们三人也轮流演出，wcy和syh各自贡献了虚空debug的精彩表演，正当我准备上机敲我的构造并且在怀疑他们故意演我的时候，我发现我的构造是假的，好家伙，演员竟是我自己，不过wcy和syh很快讨论出了真的构造，在封榜后不久就通过了，随后syh嘴了一个我们听不懂的字典树骚操作，但是很遗憾没来得及写完。不过这样还是拿到了金牌。<del>我好像躺了？</del></li><li>收到了Google的邮件，投了暑期实习，等待面试ing。</li><li>剩下的时间都在赶一个学期的作业和报告。</li></ol><h1 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h1><p>猛然发现。所有我投入了一年以上时间的事情，最终的结果无一例外全是彻底爆炸，以至于拿到这块金牌后我都不知道该报以什么样的感情，于是就表现为没有感觉。<br>当初来到HDU貌似就是抱着算法竞赛打进WF的信念，虽然现在觉得以前的自己完全错估了难度，十分可笑，但是我也得感谢当时的自己。<br>就这么活了20年，最大的感想就是该ALLIN的时候一定要ALLIN，ALLIN之后，最重要的是享受过程而不是手心流汗。</p><h1 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h1><p>考验，保研，留学都不考虑了，我对大多数炼丹性质的科研已经没有什么期待了。唯一割舍不下的是理论计算机，但是按照我的状况未必能行。<br>不过学校生活只是世界的一部分，我觉得是时候去看看象牙塔外的世界了。<br>最重要的是，2021年BonVoyage还有1到3场比赛要打。<br>目标非常简单，为了打进WF而堵上一切精力。</p>]]></content>
+    
+    
+    <summary type="html">晚年算法竞赛选手，公司狗预备？</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/01/01/hello-world/"/>
+    <id>http://example.com/2021/01/01/hello-world/</id>
+    <published>2021-01-01T09:20:58.078Z</published>
+    <updated>2021-01-01T15:27:23.274Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客二度复活！<br><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cout</span> &lt;&lt; <span class="string">&quot;Hello, the cruel new world!\n&quot;</span>;</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;博客二度复活！&lt;br&gt;&lt;figure class=&quot;highlight cpp&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;p</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
