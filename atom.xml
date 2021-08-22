@@ -6,10 +6,44 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-05T14:53:15.106Z</updated>
+  <updated>2021-08-22T12:24:17.867Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>秋招纪实</title>
+    <link href="http://example.com/2021/08/22/%E7%A7%8B%E6%8B%9B%E7%BA%AA%E5%AE%9E/"/>
+    <id>http://example.com/2021/08/22/%E7%A7%8B%E6%8B%9B%E7%BA%AA%E5%AE%9E/</id>
+    <published>2021-08-22T12:08:41.000Z</published>
+    <updated>2021-08-22T12:24:17.867Z</updated>
+    
+    <content type="html"><![CDATA[<div class="table-container"><table><thead><tr><th style="text-align:center">公司</th><th style="text-align:center">岗位</th><th style="text-align:center">进展</th></tr></thead><tbody><tr><td style="text-align:center">字节跳动</td><td style="text-align:center">语音系统工程师-AI Lab</td><td style="text-align:center">offer意向书</td></tr><tr><td style="text-align:center">华为</td><td style="text-align:center">虚拟化工程师</td><td style="text-align:center">面试通过，泡池子</td></tr><tr><td style="text-align:center">乾象投资MetaBit</td><td style="text-align:center">软件工程师大类</td><td style="text-align:center">简历评估</td></tr><tr><td style="text-align:center">tx</td><td style="text-align:center">不确定</td><td style="text-align:center">还没投</td></tr><tr><td style="text-align:center">intel</td><td style="text-align:center">虚拟化相关，不确定</td><td style="text-align:center">还没投</td></tr><tr><td style="text-align:center">微软</td><td style="text-align:center">软件工程师</td><td style="text-align:center">还没投</td></tr><tr><td style="text-align:center">阿里</td><td style="text-align:center">不确定</td><td style="text-align:center">不太想投</td></tr></tbody></table></div><h1 id="欠缺知识点"><a href="#欠缺知识点" class="headerlink" title="欠缺知识点"></a>欠缺知识点</h1><ol><li>c++忘光了 看看effective c++</li><li>计网忘得差不多了 自顶向下来一遍</li><li>并发编程，实践</li><li>文件系统</li><li>组成原理 NUMA不太会，csapp有点遗忘，再看一遍</li><li>编译原理 不打算学</li><li>图形学相关 不打算进入相关领域</li><li>前端，不打算涉及</li></ol><h1 id="已掌握知识点"><a href="#已掌握知识点" class="headerlink" title="已掌握知识点"></a>已掌握知识点</h1><ol><li>操作系统，cpu，内存模型，应付面试够了</li><li>虚拟化技术，非常基础</li></ol>]]></content>
+    
+    
+    <summary type="html">关于秋招这件事</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HUAWEI实习感受</title>
+    <link href="http://example.com/2021/08/22/HUAWEI%E5%AE%9E%E4%B9%A0%E6%84%9F%E5%8F%97/"/>
+    <id>http://example.com/2021/08/22/HUAWEI%E5%AE%9E%E4%B9%A0%E6%84%9F%E5%8F%97/</id>
+    <published>2021-08-22T10:20:57.000Z</published>
+    <updated>2021-08-22T12:23:33.331Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>众所周知，同一公司不同部门不同组之间的差距有时会非常大，因此以下内容都是个人感受，不具有普适性。毕竟像华为这么巨大的公司，组之间的区别说不定大于某些公司之间的区别。我所在的部门是华为-&gt;2012实验室-&gt;中央软件院-&gt;某数百人OS相关实验室-&gt;某十几人规模团队，涉及虚拟化相关领域。</p><p>由于我只是个实习生，对于正式员工的待遇，机会等信息只能靠道听途说，不具备可靠性。</p><p>对于工作的看法，追求的目标，大家可能都不太一样，我的个人观点也许不具备参考价值。</p><h1 id="加班"><a href="#加班" class="headerlink" title="加班"></a>加班</h1><p>实习过程中对这里最深刻的印象就是加班，理论上来讲实习生的工作时间是8:30到18:00，一周工作五天无需加班，事实上我一般是晚上8:35离开工位，周三周五或者周末会吃完饭就走，也有过连续数周单休或不休的情况。至于正式员工，我觉得差不多是9106到9116的节奏，但是我没有亲眼见过他们下班，所以这只是个估测。</p><h1 id="薪资"><a href="#薪资" class="headerlink" title="薪资"></a>薪资</h1><p>实习生一个月是6000元，据说已经好几年不变了，个人感觉有些跟不上时代，根据我的亲身经历，差不多是1000交给国家，2000交给房东，2000维持生命，剩下1000存起来当提前退租违约金交给中介。我觉得不加班这个价还行，加班还是这么多未免令人悲伤。</p><h1 id="团队"><a href="#团队" class="headerlink" title="团队"></a>团队</h1><p>这里的同事人都很不错，无论是不是我的导师，当我有问题时他们都愿意花时间来为我解答，甚至手把手地教，在大家非常忙碌的情况下我觉得这是相当难得的。</p><h1 id="技术氛围"><a href="#技术氛围" class="headerlink" title="技术氛围"></a>技术氛围</h1><p>团队内的技术氛围也是相当浓厚的，周会的时候会有组内同事分享各自领域内的技术，每周二晚上也都会有技术讲座，我听过HotOS会议论文的分享报告，也听过rust语言的教学，而这些内容有的也确实会落实到整个部门的产品上。我身边也有同事试图将一些前沿的技术集成到产品的特性当中去，我觉得这是非常好的一点。</p><h1 id="工作内容"><a href="#工作内容" class="headerlink" title="工作内容"></a>工作内容</h1><p>不过遗憾的是，并非所有人都能做技术相关的内容，或者说某个feature集成到版本之后开发者的噩梦就开始了。我们组的工作就是在上游OS团队提供的系统的基础上进行开发，随后交付给各种云相关部门使用，当云场景在升级或者部署或者运行过程中遇到无法解决的问题时，他们会寻求我们的支持，这样的接口工作会耗费大量时间，据我观察某些员工几乎80%的时间都花费在线上会议中，还经常需要通宵支持升级工作。</p><p>另一方面，随着新领导的上台，公司在软件的安全可信方面的评审方案发生了改变，但是在虚拟化场景下有些安全要求是难以得到满足的，为了应对内部评审，一方面需要开更多的会议，一方面要承接更多的需求。开会往往是没有结果的，因为那帮安全专家没人有胆子拍板，做安全需求是痛苦的，因为那帮安全专家有时会异想天开，例如把只读iso镜像里的某个文件权限改成600，例如用户设置密码过程中如果按下退格键需要校验旧密码，例如在vfat格式下改一个文件权限。</p><p>此外，还有版本交付的压力。一方面，这体现在坐在旁边的版本经理每十分钟嘴里至少蹦出5句国骂；另一方面，我们需要同时维护2个基线版本，每个的开发迭代周期都是两周，也就是说每周都有ddl，而华为这边的软件开发流程似乎不太符合快速迭代的需求，流程繁重，而且我个人在开发中总会遇到之前没有人考虑到的问题，这种情况下必然是要加班加点赶进度的。</p><p>不过我只是一个实习生，做了三个安全相关的需求，算上开源代码一共贡献了800多行的shell和一些python，技术含量大概是没什么的，最大的收获是与安全人对线积累了不少经验。</p><h1 id="个人感受"><a href="#个人感受" class="headerlink" title="个人感受"></a>个人感受</h1><ul><li><p>这段实习最大的收获是让我体验了996的生活，我也明白了我个人不想要这样的生活，或者说这样子可能没有生活：除了工作就是休息，甚至在休息的时候也随时有可能被拉入会议。<br>这样的后果是失去思考和充电的时间，逐渐变成一台加班机器，作为一颗螺丝钉在房贷和绩效考评的双重压力下被死死钉在岗位上，于是身体不断老化，尿酸血糖纷纷上升，糖尿病痛风甲状腺癌接踵而至（根据现实改编），而对于公司，这不过是给旧螺丝钉一些补偿然后换一颗拧上去这么简单的事，考虑到现在正式招聘缩水转而招聘外包的潮流，换螺丝钉的陈本甚至越发低廉了。</p></li><li><p>华为食堂性价比一般，少数性价比超群的又会排超长的队</p></li><li><p>园区里环境不错，有兔子鸭子天鹅之类的。</p></li><li><p>加班到20:35有免费夜宵，一般价值30元左右，有水果面包零食饮料可以选择，对于实习生来说还不错。</p></li><li><p>上升看起来比较困难</p></li><li><p>公司文化偏激进，开会开着开着骂人也很正常，喜欢推卸责任装傻的也不少。</p></li></ul><p>这周打算提离职了，手头还有一个需求，几个告警，修完应该也没啥了，转正面试也面过了，接下来还是准备秋招，或者找个创业公司实习试试？</p>]]></content>
+    
+    
+    <summary type="html">关于实习这件事</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>退役闲扯</title>
