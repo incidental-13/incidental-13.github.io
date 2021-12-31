@@ -6,19 +6,36 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-22T12:24:17.867Z</updated>
+  <updated>2021-12-31T15:21:54.234Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021 Summary</title>
+    <link href="http://example.com/2021/12/31/2021-Summary/"/>
+    <id>http://example.com/2021/12/31/2021-Summary/</id>
+    <published>2021-12-31T12:46:32.000Z</published>
+    <updated>2021-12-31T15:21:54.234Z</updated>
+    
+    <content type="html"><![CDATA[<p>过去的一年在我身上发生了很多事，无论变好变坏，希望每一年都能是这样。</p><p>写了很多又删了很多，大概是一些牢骚。</p><p>总之这一年的经验总结起来就是“福兮祸之所倚，福兮祸之所伏”，今年大概反转了4次的样子吧。</p><p>今年有一件过意不去的事，华为实习结束的时候顺走了导师的一本书，看起来挺旧的，然而我刚离职不久导师也被优化了，也没个联系方式，可能只能相忘于江湖了。</p><p>今年的个人年度时刻我愿意颁给华为。经典12小时工作之后，手里提着夜宵回家，闻着夏季垃圾桶特有的腐臭味，盘算着回去学点什么，简历投到哪里，房租够不够交，进度赶不赶得上。只能说有社畜内味了。</p><p>还好现在有了份我喜爱的工作，希望能尽快提高一个姿势水平。</p><p>今年的一个主要状态就是迷茫。有故人给我一句“Go spurs go!”，于是我 allin 竞赛搞了三年，只是这三年之后又三年，我们最终又会去向何方，经历如何的旅途。只能说很神秘，很性感，就像枪花的Sweet Child O’ Mine最后的“where do we go”一样。</p><p>总之，感谢各位朋友，以及新年快乐。</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=591379&auto=0&height=66"></iframe>]]></content>
+    
+    
+    <summary type="html">22岁，7/12是学生</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>秋招纪实</title>
     <link href="http://example.com/2021/08/22/%E7%A7%8B%E6%8B%9B%E7%BA%AA%E5%AE%9E/"/>
     <id>http://example.com/2021/08/22/%E7%A7%8B%E6%8B%9B%E7%BA%AA%E5%AE%9E/</id>
     <published>2021-08-22T12:08:41.000Z</published>
-    <updated>2021-08-22T12:24:17.867Z</updated>
+    <updated>2021-12-31T12:32:57.557Z</updated>
     
-    <content type="html"><![CDATA[<div class="table-container"><table><thead><tr><th style="text-align:center">公司</th><th style="text-align:center">岗位</th><th style="text-align:center">进展</th></tr></thead><tbody><tr><td style="text-align:center">字节跳动</td><td style="text-align:center">语音系统工程师-AI Lab</td><td style="text-align:center">offer意向书</td></tr><tr><td style="text-align:center">华为</td><td style="text-align:center">虚拟化工程师</td><td style="text-align:center">面试通过，泡池子</td></tr><tr><td style="text-align:center">乾象投资MetaBit</td><td style="text-align:center">软件工程师大类</td><td style="text-align:center">简历评估</td></tr><tr><td style="text-align:center">tx</td><td style="text-align:center">不确定</td><td style="text-align:center">还没投</td></tr><tr><td style="text-align:center">intel</td><td style="text-align:center">虚拟化相关，不确定</td><td style="text-align:center">还没投</td></tr><tr><td style="text-align:center">微软</td><td style="text-align:center">软件工程师</td><td style="text-align:center">还没投</td></tr><tr><td style="text-align:center">阿里</td><td style="text-align:center">不确定</td><td style="text-align:center">不太想投</td></tr></tbody></table></div><h1 id="欠缺知识点"><a href="#欠缺知识点" class="headerlink" title="欠缺知识点"></a>欠缺知识点</h1><ol><li>c++忘光了 看看effective c++</li><li>计网忘得差不多了 自顶向下来一遍</li><li>并发编程，实践</li><li>文件系统</li><li>组成原理 NUMA不太会，csapp有点遗忘，再看一遍</li><li>编译原理 不打算学</li><li>图形学相关 不打算进入相关领域</li><li>前端，不打算涉及</li></ol><h1 id="已掌握知识点"><a href="#已掌握知识点" class="headerlink" title="已掌握知识点"></a>已掌握知识点</h1><ol><li>操作系统，cpu，内存模型，应付面试够了</li><li>虚拟化技术，非常基础</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>上岸了，别的不重要。</p>]]></content>
     
     
     <summary type="html">关于秋招这件事</summary>
