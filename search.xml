@@ -146,4 +146,84 @@
 <p>总之，感谢各位朋友，以及新年快乐。</p>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=591379&auto=0&height=66"></iframe>]]></content>
   </entry>
+  <entry>
+    <title>毕设记录</title>
+    <url>/2022/06/13/%E6%AF%95%E8%AE%BE%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<p>选毕业设计的时候忙着上班，下手晚了，联系了一堆导师只有一个理我，导师手里题目也不多，想着偷懒选了个算法相关的，《基于大数据的天然气指标异常检测算法实现》，事实证明这看似简单的毕设题目并不省心。本文旨在记录本人毕设期间的心路历程以及一些踩到的坑。</p>
+<h2 id="问题定义"><a href="#问题定义" class="headerlink" title="问题定义"></a>问题定义</h2><p>大数据在我这个题目的语境里指的是从学长手里搞来的 1 GiB 的天然气表具传感器数据，以 sqlserver 的 bak 形式出现</p>
+<p>天然气相关的背景知识无从下手，看起来也没那么重要。</p>
+<p>异常检测算法并没有明确给出，导师扔了一堆论文，要求是“多试几个，比一比挑个好的”</p>
+<h2 id="第一回合"><a href="#第一回合" class="headerlink" title="第一回合"></a>第一回合</h2><p>在一阵拖延之后，我开始干活</p>
+<ul>
+<li><p>想办法把 sqlserver 备份里的数据搞出来</p>
+<ul>
+<li>看起来只能下个 Navicat</li>
+<li>发现数据库中的异常标签是运维人员通过大于小于的规则搞出来的，全是 false alarm</li>
+<li>发现数据中出现了负一千多摄氏度的传感器数据</li>
+<li>有温度、压强、流量三个指标，然而有大量3缺1的时间点</li>
+</ul>
+</li>
+</ul>
+<p>看起来不太好搞，这个数据我学个屁，只能 garbage in, garbage out啊，问了一波学长，说是可以添加人造异常。</p>
+<h2 id="第二回合"><a href="#第二回合" class="headerlink" title="第二回合"></a>第二回合</h2><p>感觉前途灰暗，摸了一大会儿鱼</p>
+<ul>
+<li>想一个过得去的solution<ul>
+<li>翻到一个人做的实验模拟天然气泄漏数据集，但是要成为 IEEE member 才能下，含泪充值，发现人家只有气压数据，还只做了3次实验，直呼上当，但不是不能用</li>
+<li>以无监督，TSAD，深度学习为关键词进行搜索，发现今年的深度学习模型能在公共数据集上做到 80 到 90 的 F1，感觉天无绝人之路。</li>
+<li>翻到一个人做的实验模拟天然气泄漏数据集，但是要成为 IEEE member 才能下，含泪充值，发现人家只有气压数据，还只做了3次实验，直呼上当</li>
+<li>选了一篇用 transformer 的老伦敦论文，发现老伦敦还开源了所有实验用代码（包括一堆baseline的复现），大喜</li>
+</ul>
+</li>
+<li><p>进行一个 fork</p>
+<ul>
+<li>跑通了老伦敦代码</li>
+<li>咦，这个怎么跑得这么快？原来老伦敦只用了数据集的一小部分来实验。那我试试别的部分！寄，F1只有60多！</li>
+<li>咦，其他模型的代码怎么这么短？让我去查查其他模型的原论文！寄，复现省略了亿点细节！</li>
+<li>好奇，对于连续的异常区间模型居然能全标出来，可视化看一下？连续一场区间里只查出几个点！哦，原来 common practice 是用 adjustment 把整个区间标出来啊！那你 tmd 的假阳性和真阳性的比例不就变了吗？这样90多的F1有意义？感觉不如。。。间隔标点</li>
+<li>老伦敦不行</li>
+</ul>
+</li>
+</ul>
+<h2 id="第三回合"><a href="#第三回合" class="headerlink" title="第三回合"></a>第三回合</h2><p>摸几天鱼，发现有一篇大清的论文放出代码了，我试试</p>
+<ul>
+<li><p>康康大清</p>
+<ul>
+<li>跑了一堆公共数据集，发现真的有 90 的 F1，虽然带了 adjustment，但看起来大清nb</li>
+</ul>
+</li>
+<li><p>人造异常</p>
+<ul>
+<li>用三脚猫频谱分析技术结合某篇综述的思路造异常</li>
+</ul>
+</li>
+<li><p>I have an apple! I have a pen!</p>
+<ul>
+<li>大清跪得很惨烈，F1 40不到</li>
+<li>调个库跑跑老一点算法，半斤八两</li>
+</ul>
+</li>
+</ul>
+<p>寄！</p>
+<h2 id="第四回合"><a href="#第四回合" class="headerlink" title="第四回合"></a>第四回合</h2><p>时间所剩无几，开始怀疑人生</p>
+<ul>
+<li><p>重读论文</p>
+<ul>
+<li><a href="https://arxiv.org/ftp/arxiv/papers/2009/2009.13807.pdf">https://arxiv.org/ftp/arxiv/papers/2009/2009.13807.pdf</a> </li>
+<li><a href="https://www.cs.ucr.edu/~eamonn/time_series_data_2018/UCR_TimeSeriesAnomalyDatasets2021.zip">https://www.cs.ucr.edu/~eamonn/time_series_data_2018/UCR_TimeSeriesAnomalyDatasets2021.zip</a></li>
+<li>哈哈哈，这下都是🤡了，原来都在灌水啊</li>
+</ul>
+</li>
+<li>那就这样吧，开写论文</li>
+</ul>
+<h2 id="第五回合"><a href="#第五回合" class="headerlink" title="第五回合"></a>第五回合</h2><p>答辩</p>
+<ul>
+<li>被老师攻击了太烂的表现，答辩组成员普遍认为我的复现/调参有问题（but 同样的模型在公共数据集猛如虎）（but 调参我尽力了）</li>
+<li>有些老师认为人造异常是扯淡，我也不知道扯不扯，我只知道大家都在这么灌，灌个本科学位论文应该问题不大？</li>
+<li>有些老师觉得没有工作量</li>
+<li>有些老师觉得没有创新点</li>
+</ul>
+<p>然后答辩通过了</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>TSAD💊，AIOps感觉有点扯了。</p>
+]]></content>
+  </entry>
 </search>
